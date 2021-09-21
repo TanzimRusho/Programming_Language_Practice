@@ -13,6 +13,7 @@ fun shippingCost(amount: Double, international: Boolean): Double {
     }
     return total
 }
+
 fun main(args: Array<String>) {
     val total = readLine()!!.toDouble()
     val international = readLine()!!.toBoolean()    
