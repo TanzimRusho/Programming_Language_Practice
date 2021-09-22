@@ -5,7 +5,6 @@ public class WhileLoop {
        Scanner read = new Scanner(System.in);
        int number = read.nextInt();
 
-       //your code goes here
        int i = 1;
        
        while(i <= number)
