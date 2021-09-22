@@ -13,3 +13,4 @@ Practice codes of different programming languages and frameworks
 * [Java Static Variables and Methods](https://www.guru99.com/java-static-variable-methods.html)
 * [Java Cheatsheet | Devsonket](https://devsonket.com/java-cheat-sheet/)
 * [JDOODLE | Online Java Compiler](https://www.jdoodle.com/online-java-compiler/)
+* [Collections in Java](https://www.javatpoint.com/collections-in-java)
